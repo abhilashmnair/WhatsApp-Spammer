@@ -1,7 +1,6 @@
 # WhatsApp Spammer
 A simple WhatsApp Spammer built with Python.
 
-Reference : [Medium]https://medium.com/dsc-srm/make-a-whatsapp-spammer-in-under-10-lines-of-python-code-b414024db8e
 
 
 Prerequisites
