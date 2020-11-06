@@ -3,7 +3,9 @@ A simple WhatsApp Spammer built with Python.
 
 
 
-Prerequisites
+Steps :
+
+
 1) Install Selenium : `pip install -U selenium`
 
 2) Downlaod the Chrome webdriver from [here](https://chromedriver.chromium.org/downloads).
