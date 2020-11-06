@@ -6,7 +6,7 @@ Prerequisites
 
 2) Run the code : py spam.py
 
-3) Provide your victim's name the message.
+3) Provide your victim's name & message.
 
 How long it works? Well...infinite....who cares!!!
 # Enjoy
