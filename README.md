@@ -2,6 +2,8 @@
 A simple WhatsApp Spammer built with Python.
 
 Reference : [Medium]https://medium.com/dsc-srm/make-a-whatsapp-spammer-in-under-10-lines-of-python-code-b414024db8e
+
+
 Prerequisites
 1) Install Selenium : `pip install -U selenium`
 
