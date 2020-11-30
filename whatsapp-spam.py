@@ -1,5 +1,5 @@
 from selenium import webdriver
-driver = webdriver.Chrome('PATH_TO_THE_DOWNLOADED_DRIVER')
+driver = webdriver.Chrome('C:\webdrivers\chromedriver.exe')
 driver.implicitly_wait(15) 
 driver.get('https://web.whatsapp.com')
 victimName = input("Victim's Name : ")
